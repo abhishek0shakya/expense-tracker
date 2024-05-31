@@ -1,8 +1,8 @@
 # React Expense Tracker - ReactJS Projects
 
-### Demo - Deployed over Github Pages
+### Demo - Deployed over Netlify
 
-https://github.com/abhishek0shakya/expense-tracker
+https://exoense-tracker.netlify.app
 
 ### Libraries used
 
